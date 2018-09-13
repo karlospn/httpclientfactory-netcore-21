@@ -1,0 +1,17 @@
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.Proxies\bin\Debug\netstandard2.0\MultiServiceApp.Proxies.deps.json
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.Proxies\bin\Debug\netstandard2.0\MultiServiceApp.Proxies.dll
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.Proxies\bin\Debug\netstandard2.0\MultiServiceApp.Proxies.pdb
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.Proxies\obj\Debug\netstandard2.0\MultiServiceApp.Proxies.csproj.CoreCompileInputs.cache
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.Proxies\obj\Debug\netstandard2.0\MultiServiceApp.Proxies.AssemblyInfoInputs.cache
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.Proxies\obj\Debug\netstandard2.0\MultiServiceApp.Proxies.AssemblyInfo.cs
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.Proxies\obj\Debug\netstandard2.0\MultiServiceApp.Proxies.dll
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.Proxies\obj\Debug\netstandard2.0\MultiServiceApp.Proxies.pdb
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\MultiServiceApp.Proxies\bin\Debug\netstandard2.0\MultiServiceApp.Proxies.deps.json
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\MultiServiceApp.Proxies\bin\Debug\netstandard2.0\MultiServiceApp.Proxies.dll
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\MultiServiceApp.Proxies\bin\Debug\netstandard2.0\MultiServiceApp.Proxies.pdb
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\MultiServiceApp.Proxies\obj\Debug\netstandard2.0\MultiServiceApp.Proxies.csproj.CoreCompileInputs.cache
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\MultiServiceApp.Proxies\obj\Debug\netstandard2.0\MultiServiceApp.Proxies.AssemblyInfoInputs.cache
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\MultiServiceApp.Proxies\obj\Debug\netstandard2.0\MultiServiceApp.Proxies.AssemblyInfo.cs
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\MultiServiceApp.Proxies\obj\Debug\netstandard2.0\MultiServiceApp.Proxies.dll
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\MultiServiceApp.Proxies\obj\Debug\netstandard2.0\MultiServiceApp.Proxies.pdb
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\MultiServiceApp.Proxies\obj\Debug\netstandard2.0\MultiServiceApp.Proxies.csprojAssemblyReference.cache

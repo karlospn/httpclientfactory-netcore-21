@@ -1,0 +1,17 @@
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\bin\Debug\netcoreapp2.1\PoC_CircuitBreaker.WebApp2.deps.json
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\bin\Debug\netcoreapp2.1\PoC_CircuitBreaker.WebApp2.runtimeconfig.json
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\bin\Debug\netcoreapp2.1\PoC_CircuitBreaker.WebApp2.runtimeconfig.dev.json
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\bin\Debug\netcoreapp2.1\PoC_CircuitBreaker.WebApp2.dll
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\bin\Debug\netcoreapp2.1\PoC_CircuitBreaker.WebApp2.pdb
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\bin\Debug\netcoreapp2.1\PoC_CircuitBreaker.Proxies.dll
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\bin\Debug\netcoreapp2.1\PoC_CircuitBreaker.Proxies.pdb
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\obj\Debug\netcoreapp2.1\PoC_CircuitBreaker.WebApp2.csprojAssemblyReference.cache
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\obj\Debug\netcoreapp2.1\PoC_CircuitBreaker.WebApp2.csproj.CoreCompileInputs.cache
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\obj\Debug\netcoreapp2.1\PoC_CircuitBreaker.WebApp2.RazorAssemblyInfo.cache
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\obj\Debug\netcoreapp2.1\PoC_CircuitBreaker.WebApp2.RazorAssemblyInfo.cs
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\obj\Debug\netcoreapp2.1\PoC_CircuitBreaker.WebApp2.AssemblyInfoInputs.cache
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\obj\Debug\netcoreapp2.1\PoC_CircuitBreaker.WebApp2.AssemblyInfo.cs
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\obj\Debug\netcoreapp2.1\PoC_CircuitBreaker.WebApp2.RazorTargetAssemblyInfo.cache
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\obj\Debug\netcoreapp2.1\PoC_CircuitBreaker.WebApp2.csproj.CopyComplete
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\obj\Debug\netcoreapp2.1\PoC_CircuitBreaker.WebApp2.dll
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.WebApp2\obj\Debug\netcoreapp2.1\PoC_CircuitBreaker.WebApp2.pdb

@@ -1,0 +1,21 @@
+FROM microsoft/dotnet:2.1.400-sdk-alpine3.7  AS build-env
+WORKDIR /app
+
+# Copy csproj and restore as distinct layers
+COPY /MultiServiceApp.WebApp1/*.csproj ./src/MultiServiceApp.WebApp1/
+COPY /MultiServiceApp.Proxies/*.csproj ./src/MultiServiceApp.Proxies/
+
+RUN dotnet restore ./src/MultiServiceApp.WebApp1/MultiServiceApp.WebApp1.csproj -nowarn:msb3202,nu1503
+
+# Copy everything else and build
+COPY /MultiServiceApp.WebApp1 ./src/MultiServiceApp.WebApp1/
+COPY /MultiServiceApp.Proxies ./src/MultiServiceApp.Proxies/
+RUN dotnet publish src/MultiServiceApp.WebApp1/*.csproj -c Release -o out
+
+# Build runtime imagedock
+FROM microsoft/dotnet:2.1.2-aspnetcore-runtime-alpine3.7
+EXPOSE 80
+WORKDIR /app
+COPY --from=build-env /app/src/MultiServiceApp.WebApp1/out .
+ENV ASPNETCORE_ENVIRONMENT="Development"
+ENTRYPOINT ["dotnet", "MultiServiceApp.WebApp1.dll"]

@@ -1,0 +1,20 @@
+version: '3.2'
+
+services:
+  app1.api:
+      ports:
+        - "5100:80"
+
+  app2.api:
+      environment:
+        - ASPNETCORE_ENVIRONMENT=Development
+        - WebApp1Uri=http://app1.api/api/values
+      ports:
+        - "5101:80"
+
+  app3.api:
+      environment:
+        - ASPNETCORE_ENVIRONMENT=Development
+        - WebApp2Uri=http://app2.api/api/values/work
+      ports:
+        - "5102:80"

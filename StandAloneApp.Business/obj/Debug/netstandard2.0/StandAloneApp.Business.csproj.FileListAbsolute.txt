@@ -1,0 +1,12 @@
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\StandAloneApp.Business\obj\Debug\netstandard2.0\StandAloneApp.Business.csprojAssemblyReference.cache
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\StandAloneApp.Business\obj\Debug\netstandard2.0\StandAloneApp.Business.csproj.CoreCompileInputs.cache
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\StandAloneApp.Business\obj\Debug\netstandard2.0\StandAloneApp.Business.AssemblyInfoInputs.cache
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\StandAloneApp.Business\obj\Debug\netstandard2.0\StandAloneApp.Business.AssemblyInfo.cs
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\StandAloneApp.Business\bin\Debug\netstandard2.0\StandAloneApp.Business.deps.json
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\StandAloneApp.Business\bin\Debug\netstandard2.0\StandAloneApp.Business.dll
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\StandAloneApp.Business\bin\Debug\netstandard2.0\StandAloneApp.Business.pdb
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\StandAloneApp.Business\bin\Debug\netstandard2.0\StandAloneApp.Infra.dll
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\StandAloneApp.Business\bin\Debug\netstandard2.0\StandAloneApp.Infra.pdb
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\StandAloneApp.Business\obj\Debug\netstandard2.0\StandAloneApp.Business.csproj.CopyComplete
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\StandAloneApp.Business\obj\Debug\netstandard2.0\StandAloneApp.Business.dll
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\StandAloneApp.Business\obj\Debug\netstandard2.0\StandAloneApp.Business.pdb

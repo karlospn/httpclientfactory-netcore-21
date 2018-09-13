@@ -1,0 +1,8 @@
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.Proxies\bin\Debug\netstandard2.0\PoC_CircuitBreaker.Proxies.deps.json
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.Proxies\bin\Debug\netstandard2.0\PoC_CircuitBreaker.Proxies.dll
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.Proxies\bin\Debug\netstandard2.0\PoC_CircuitBreaker.Proxies.pdb
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.Proxies\obj\Debug\netstandard2.0\PoC_CircuitBreaker.Proxies.csproj.CoreCompileInputs.cache
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.Proxies\obj\Debug\netstandard2.0\PoC_CircuitBreaker.Proxies.AssemblyInfoInputs.cache
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.Proxies\obj\Debug\netstandard2.0\PoC_CircuitBreaker.Proxies.AssemblyInfo.cs
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.Proxies\obj\Debug\netstandard2.0\PoC_CircuitBreaker.Proxies.dll
+C:\VuelingArch\PoC-CircuitBreaker\PoC-CircuitBreaker\PoC-CircuitBreaker.Proxies\obj\Debug\netstandard2.0\PoC_CircuitBreaker.Proxies.pdb
